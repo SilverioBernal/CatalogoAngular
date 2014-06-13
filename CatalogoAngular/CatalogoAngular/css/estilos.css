@@ -1,0 +1,43 @@
+﻿body {
+	background-color: white;
+	color:GrayText;
+}
+a {
+	text-decoration: none;
+	color: red;
+}
+#contenedor {
+	width: 960px;
+	margin: auto;
+}
+#contenedor #cabezote {
+	width: 950px;
+	height: 85px;
+	padding: 0px 0px 0px 0px;
+	background-image: url(http://www.acantilado.es/cont/img/img_header_logo.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #EB2830;
+}
+#contenedor img{
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+#contenedor .libro {
+	width: 445px;
+	padding: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	float: left;
+	border: solid 1px darkgrey;
+}
+#contenedor #autor {
+	margin-top: 20px;
+}
+#contenedor #autor h2 {
+	clear: both;
+	background-color: darkgrey;
+	color: black;
+	width: 950px;
+}

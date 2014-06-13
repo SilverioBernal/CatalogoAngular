@@ -1,0 +1,94 @@
+{
+   "libros":[
+      {
+         "id":1,
+         "id_autor":1,
+         "imagen":"http://www.acantilado.es/cont/catalogo/imagePot/ACA0296ok.jpg",
+         "autor":"W. Stanley Moss",
+         "titulo":"Mal encuentro a la luz de la luna",
+         "traduccion":"TraducciÃ³n de Dolores PayÃ¡s",
+         "precio":"22.00 â‚¬"
+      },
+      {
+         "id":2,
+         "id_autor":2,
+         "imagen":"http://www.acantilado.es/cont/catalogo/imagePot/ACA0293.jpg",
+         "autor":"IliÃ¡ Ehrenburg",
+         "titulo":"Gente, aÃ±os, vida",
+         "traduccion":"TraducciÃ³n de Marta RebÃ³n",
+         "precio":"55.00 â‚¬"
+      },
+      {
+         "id":3,
+         "id_autor":3,
+         "imagen":"http://www.acantilado.es/cont/catalogo/imagePot/ACA0295.jpg",
+         "autor":"Rafael Argullol",
+         "titulo":"PasiÃ³n del dios que quiso ser hombre",
+         "traduccion":"",
+         "precio":"14.00 â‚¬"
+      },
+      {
+         "id":4,
+         "id_autor":4,
+         "imagen":"http://www.acantilado.es/cont/catalogo/imagePot/NACA239.jpg",
+         "autor":"Javier Mije",
+         "titulo":"La larga noche",
+         "traduccion":"",
+         "precio":"15.00 â‚¬"
+      },
+      {
+         "id":5,
+         "id_autor":5,
+         "imagen":"http://www.acantilado.es/cont/catalogo/imagePot/NACA238.jpg",
+         "autor":"Georges Simenon",
+         "titulo":"La nieve estaba sucia",
+         "traduccion":"TraducciÃ³n de NÃºria Petit",
+         "precio":"20.00 â‚¬"
+      },
+      {
+         "id":6,
+         "id_autor":6,
+         "imagen":"http://www.acantilado.es/cont/catalogo/imagePot/NACA237.jpg",
+         "autor":"H. P. Lovecraft",
+         "titulo":"En las montaÃ±as de la locura",
+         "traduccion":"TraducciÃ³n de Miguel Temprano GarcÃ­a",
+         "precio":"14.00 â‚¬"
+      },
+      {
+         "id":7,
+         "id_autor":7,
+         "imagen":"http://www.acantilado.es/cont/catalogo/imagePot/CUA0062.jpg",
+         "autor":"Alexandr Pushkin",
+         "titulo":"El prisionero del CÃ¡ucaso",
+         "traduccion":"TraducciÃ³n de Selma Ancira Gerardo Torres",
+         "precio":"10.00 â‚¬"
+      },
+      {
+         "id":8,
+         "id_autor":8,
+         "imagen":"http://www.acantilado.es/cont/catalogo/imagePot/ACA0292.jpg",
+         "autor":"Charles Burney",
+         "titulo":"Viaje musical por Francia e Italia en el s.â€‰XVIII",
+         "traduccion":"TraducciÃ³n de RamÃ³n AndrÃ©s",
+         "precio":"29.00 â‚¬"
+      },
+      {
+         "id":9,
+         "id_autor":9,
+         "imagen":"http://www.acantilado.es/cont/catalogo/imagePot/ACA0289.jpg",
+         "autor":"Aurora Egido",
+         "titulo":"Bodas de Arte e Ingenio",
+         "traduccion":"",
+         "precio":"28.00 â‚¬"
+      },
+      {
+         "id":10,
+         "id_autor":10,
+         "imagen":"http://www.acantilado.es/cont/catalogo/imagePot/ACA0294ok.jpg",
+         "autor":"Oscar Tusquets Blanca",
+         "titulo":"Amables personajes",
+         "traduccion":"",
+         "precio":"22.00 â‚¬"
+      }
+   ]
+}

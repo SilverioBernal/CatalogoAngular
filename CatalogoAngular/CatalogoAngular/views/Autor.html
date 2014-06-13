@@ -1,0 +1,13 @@
+﻿<div id="autor" ng-repeat="autor in autores | filter:{id:id_autor}:true">
+	<img src="{{autor.imagen}}">
+	<h1>{{autor.nombre}}</h1>
+	<p>{{autor.descripcion}}</p>
+	<h2>Libros publicados</h2>
+	<div ng-repeat="libro in autor.libros" class="libro">
+		<img src="{{libro.caratula}}">
+		<h1>{{libro.titulo}}</h1>
+		<span>{{libro.traduccion}}</span>
+		<span>Costo: {{libro.precio}}</span>
+		<p>{{libro.descripcion}}</p>
+	</div>
+</div>

@@ -1,0 +1,9 @@
+﻿Filtrar por <input ng-model='filtro'/>{{filtro}}
+<br />
+<div ng-repeat='libro in libros | filter:filtro' class="libro">
+	<img ng-src="{{libro.imagen}}">
+	<a href="#/autor/{{libro.id_autor}}">{{libro.autor}}</a>
+	<h2>{{libro.titulo}}</h2>
+	<span>{{libro.traduccion}}</span><br>
+	<span>Costo: {{libro.precio}}</span>
+</div>
